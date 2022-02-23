@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "QylqLY+FDE926a4OzDDF3QshweznwwZpLNUjjBOgrWDxL988CHJEHcm+d565Se7OALMeWENviLG/LMMSS5OWAw==",
+  "success": true,
+  "projectFilePath": "C:\\Projetos\\SistemaCompras\\SistemaCompras-v3\\SistemaCompra.Domain\\SistemaCompra.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PICHAU\\.nuget\\packages\\mediatr\\8.0.0\\mediatr.8.0.0.nupkg.sha512",
+    "C:\\Users\\PICHAU\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\PICHAU\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\PICHAU\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
